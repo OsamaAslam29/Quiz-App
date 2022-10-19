@@ -3,8 +3,8 @@ import './Quiz.scss';
 
 const Quiz = () => {
   return (
-    <div>
-       <h1>this is quiz</h1>
+    <div className='container'>
+      <div className="heaing">Osama</div>
     </div>
   )
 }
